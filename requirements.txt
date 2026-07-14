@@ -1,0 +1,4 @@
+Flask==3.0.3
+pywebview==5.1
+pillow==10.4.0
+pyinstaller==6.10.0
