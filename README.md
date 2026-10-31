@@ -1,4 +1,5 @@
-# Browser Profile Manager <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8854542b-aaef-4572-bcb0-755b3938414a" />
+# Browser Profile Manager 
+<img width="256" height="256" alt="app-logo" src="https://github.com/user-attachments/assets/694ce4c1-e906-4a5e-8f0c-a69140bcce2d" />
 
 
 Browser Profile Manager is a premium Windows desktop productivity tool that
