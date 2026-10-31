@@ -1,4 +1,5 @@
-# Browser Profile Manager
+# Browser Profile Manager <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8854542b-aaef-4572-bcb0-755b3938414a" />
+
 
 Browser Profile Manager is a premium Windows desktop productivity tool that
 automatically discovers browser profiles from multiple Chromium-based
@@ -7,11 +8,11 @@ unified interface.
 
 It is **not** a browser — it's a fast launcher that sits on top of the
 browsers you already have installed.
-#Images of Working 
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c8afcae6-d9dd-4f2e-a1c3-a4e6f14b92e6" />
+# Images of Working 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dea04f15-164f-4a58-af6e-37520b96aed9" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/be1b9cb9-d04f-41d3-8c9f-d68a8d60c05c" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/34ca10b7-19bb-4787-b9e4-624ac3b51f04" />
 
 ## Features
 
