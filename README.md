@@ -1,6 +1,14 @@
 # Browser Profile Manager 
-<img width="256" height="256" alt="app-logo" src="https://github.com/user-attachments/assets/694ce4c1-e906-4a5e-8f0c-a69140bcce2d" />
+<h1 align="center"> Browser Profile Manager</h1>
 
+<p align="center">
+  <img
+    width="256"
+    height="256"
+    alt="User Profile Manager Logo"
+    src="https://github.com/user-attachments/assets/694ce4c1-e906-4a5e-8f0c-a69140bcce2d"
+  />
+</p>
 
 Browser Profile Manager is a premium Windows desktop productivity tool that
 automatically discovers browser profiles from multiple Chromium-based
