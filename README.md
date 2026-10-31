@@ -7,6 +7,11 @@ unified interface.
 
 It is **not** a browser — it's a fast launcher that sits on top of the
 browsers you already have installed.
+#Images of Working 
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c8afcae6-d9dd-4f2e-a1c3-a4e6f14b92e6" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/be1b9cb9-d04f-41d3-8c9f-d68a8d60c05c" />
 
 ## Features
 
